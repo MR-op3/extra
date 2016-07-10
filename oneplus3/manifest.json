@@ -1,0 +1,44 @@
+{
+	"status": "ok",
+	"date": "2016-07-10",
+	"commands": "",
+	"gpg": false,
+	"devices":
+		[
+			{"files":
+				[
+					{
+						"url": "https://github.com/MR-op3/extra/blob/mr/oneplus3/multirom-20160710-v33-UNOFFICIAL-oneplus3.zip",
+						"version": "33b",
+						"type": "multirom",
+						"size": 4365164,
+						"md5": "b2cd939939121af649b84f26d74841d8"
+					},
+					{
+						"url": "https://github.com/MR-op3/extra/blob/mr/oneplus3/TWRP_multirom_oneplus3_20160710.img",
+						"version": "mrom20160710",
+						"type": "recovery",
+						"size": 19185664,
+						"md5": "3d34767bc49824a9738d4efc54a558f9"
+					},
+				],
+			"changelogs":
+				[
+					{
+						"url": "",
+						"name": "MultiROM"
+					},
+					{
+						"url": "",
+						"name": "Recovery"
+					}
+				],
+			"name": "oneplus3",
+			"ubuntu_touch":
+				{
+					"req_multirom": "33",
+					"req_recovery": "mrom20160709"
+				}
+			}
+		]
+}
