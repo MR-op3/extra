@@ -20,20 +20,9 @@
 						"type": "recovery",
 						"size": 19185664,
 						"md5": "3d34767bc49824a9738d4efc54a558f9"
-					},
-				],
-			"changelogs":
-				[
-					{
-						"url": "",
-						"name": "MultiROM"
-					},
-					{
-						"url": "",
-						"name": "Recovery"
 					}
 				],
-			"name": "oneplus3",
+			"name": "OnePlus3",
 			"ubuntu_touch":
 				{
 					"req_multirom": "33",
